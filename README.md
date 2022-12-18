@@ -1,2 +1,2 @@
 # HandGuestureToText
-Using Hand Gesture Write On The Computer Screen 
+Using Hand Gesture Write On The Computer Screen.
